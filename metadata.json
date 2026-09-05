@@ -1,0 +1,6 @@
+{
+  "name": "RegiBot",
+  "description": "Automated companion bot and accessibility controller for AR gameplay, featuring auto-spin, auto-catch, trajectory simulation, and floating HUD controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

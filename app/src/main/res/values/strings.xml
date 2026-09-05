@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RegiBot</string>
+    <string name="accessibility_service_label">RegiBot Automation Service</string>
+    <string name="accessibility_service_description">Provides automated tap and gesture support for RegiBot companion tools.</string>
+</resources>
